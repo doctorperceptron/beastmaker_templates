@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Trainings fbKey="" Name="" Description="" Language="en" Version="0">
+  <Training Key="0" Name="Test Holds">
+    <Exercises>
+      <Exercise Type="Hang" Name="jugs" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>11_11</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="hard slopers" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>12_12</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="easy slopers" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>13_13</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="four finger medium" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>21_21</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="three finger medium" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>22_22</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="four finger deep" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>31_31</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="two finger deep" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>32_32</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="three finger deep" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>33_33</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="four finger center" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>34_34</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="four finger shallow" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>41_41</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="two finger shallow" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>42_42</Holds>
+      </Exercise>
+      <Exercise Type="Hang" Name="three finger shallow" Description="">
+        <RestBetween>1</RestBetween>
+        <Duration>3</Duration>
+        <Series>1</Series>
+        <Holds>43_43</Holds>
+      </Exercise>
+    </Exercises>
+  </Training>
+</Trainings>
