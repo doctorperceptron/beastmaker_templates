@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Trainings fbKey="" Name="" Description="" Version="0">
+  <Training Key="0" Name="Partner Training">
+    <Exercises>
+      <Exercise Type="Rest">
+        <RestBetween>20</RestBetween>
+      </Exercise>
+      <Exercise Type="Hang" Name="" Description="Hang">
+        <RestBetween>10</RestBetween>
+        <Duration>5</Duration>
+        <Series>5</Series>
+        <Holds>11_11</Holds>
+      </Exercise>
+      <Exercise Type="Rest">
+        <RestBetween>120</RestBetween>
+      </Exercise>
+      <Exercise Type="Hang" Name="Hang" Description="">
+        <RestBetween>8</RestBetween>
+        <Duration>4</Duration>
+        <Series>3</Series>
+        <Holds>31_31</Holds>
+      </Exercise>
+      <Exercise Type="Rest">
+        <RestBetween>90</RestBetween>
+      </Exercise>
+      <Exercise Type="Hang" Name="pull up and hang" Description="pull up and hang">
+        <RestBetween>7</RestBetween>
+        <Duration>5</Duration>
+        <Series>3</Series>
+        <Holds>11_11</Holds>
+      </Exercise>
+      <Exercise Type="Rest">
+        <RestBetween>90</RestBetween>
+      </Exercise>
+      <Exercise Type="Hang" Name="Hang" Description="">
+        <RestBetween>6</RestBetween>
+        <Duration>5</Duration>
+        <Series>4</Series>
+        <Holds>13_11</Holds>
+      </Exercise>
+      <Exercise Type="Rest">
+        <RestBetween>90</RestBetween>
+      </Exercise>
+      <Exercise Type="Hang" Name="Hang" Description="">
+        <RestBetween>6</RestBetween>
+        <Duration>5</Duration>
+        <Series>4</Series>
+        <Holds>11_13</Holds>
+      </Exercise>
+      <Exercise Type="Rest">
+        <RestBetween>90</RestBetween>
+      </Exercise>
+      <Exercise Type="Hang" Name="pull up and hang" Description="pull up and hang ">
+        <RestBetween>7</RestBetween>
+        <Duration>4</Duration>
+        <Series>3</Series>
+        <Holds>11_11</Holds>
+      </Exercise>
+    </Exercises>
+  </Training>
+</Trainings>
